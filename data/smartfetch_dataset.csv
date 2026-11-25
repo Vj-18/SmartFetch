@@ -1,0 +1,1001 @@
+package_id,distance_km,package_weight_kg,traffic_level,weather_condition,vehicle_type,warehouse_processing_hours,delivery_time_hours,delivery_status
+PKG0001,38.7,5.96,Low,Rainy,Van,2.27,3.81,On Time
+PKG0002,95.17,16.49,Low,Rainy,Truck,2.63,6.54,On Time
+PKG0003,73.74,26.25,High,Clear,Van,4.35,8.42,Delayed
+PKG0004,60.67,22.1,Low,Cloudy,Bike,2.03,5.33,On Time
+PKG0005,17.29,24.29,Low,Cloudy,Bike,4.41,5.48,On Time
+PKG0006,17.29,19.93,High,Rainy,Bike,0.9,4.45,Delayed
+PKG0007,7.69,20.92,Medium,Stormy,Van,4.0,6.35,Delayed
+PKG0008,86.89,25.55,High,Clear,Van,4.31,8.83,Delayed
+PKG0009,60.91,7.87,Low,Rainy,Van,1.32,3.92,On Time
+PKG0010,71.39,14.94,Medium,Clear,Bike,2.44,6.42,On Time
+PKG0011,4.02,7.03,Low,Cloudy,Bike,1.24,1.76,On Time
+PKG0012,97.05,29.64,Low,Clear,Van,3.68,6.68,On Time
+PKG0013,83.58,28.35,High,Clear,Van,2.91,7.66,Delayed
+PKG0014,22.81,1.66,Low,Clear,Bike,3.36,4.21,On Time
+PKG0015,19.82,21.31,Medium,Cloudy,Van,1.38,3.24,On Time
+PKG0016,19.97,27.79,Medium,Clear,Bike,1.45,3.09,On Time
+PKG0017,31.82,5.83,Medium,Rainy,Truck,0.69,2.98,On Time
+PKG0018,53.43,17.25,High,Cloudy,Truck,1.95,5.76,Delayed
+PKG0019,44.33,27.51,Low,Clear,Bike,3.02,5.54,On Time
+PKG0020,30.54,1.5,Medium,Rainy,Bike,4.36,7.08,On Time
+PKG0021,61.96,21.07,High,Clear,Van,3.5,7.04,Delayed
+PKG0022,15.67,9.27,Medium,Cloudy,Bike,2.46,4.1,On Time
+PKG0023,30.63,27.77,High,Rainy,Van,4.79,8.36,Delayed
+PKG0024,37.9,29.15,Low,Clear,Truck,3.74,5.35,On Time
+PKG0025,46.69,28.36,Medium,Clear,Van,4.69,6.58,On Time
+PKG0026,78.95,14.49,Low,Clear,Truck,2.87,5.73,On Time
+PKG0027,21.57,25.93,Medium,Stormy,Van,1.67,4.65,Delayed
+PKG0028,52.39,25.41,High,Cloudy,Bike,0.74,5.43,Delayed
+PKG0029,60.06,9.91,Low,Rainy,Van,3.77,5.84,On Time
+PKG0030,6.55,24.95,Medium,Cloudy,Van,1.05,2.79,Delayed
+PKG0031,61.54,1.59,Low,Clear,Van,1.86,3.62,On Time
+PKG0032,18.71,18.09,Medium,Cloudy,Bike,2.9,5.04,On Time
+PKG0033,8.38,7.29,Medium,Rainy,Bike,3.04,4.74,On Time
+PKG0034,94.99,4.06,High,Clear,Truck,3.2,7.8,Delayed
+PKG0035,96.63,2.77,Medium,Clear,Bike,1.25,5.55,On Time
+PKG0036,81.22,21.04,Medium,Clear,Truck,2.21,5.52,On Time
+PKG0037,31.85,10.53,Low,Cloudy,Truck,3.28,4.91,On Time
+PKG0038,11.57,21.88,Low,Stormy,Van,4.86,7.22,Delayed
+PKG0039,69.05,2.43,Low,Clear,Van,3.77,5.54,On Time
+PKG0040,45.13,9.8,Low,Cloudy,Van,4.65,5.88,On Time
+PKG0041,13.96,16.41,High,Clear,Truck,3.93,6.52,Delayed
+PKG0042,50.53,23.83,Medium,Stormy,Bike,3.16,7.79,Delayed
+PKG0043,5.37,9.9,Medium,Clear,Van,1.36,1.7,On Time
+PKG0044,91.11,18.96,Low,Cloudy,Van,3.5,6.55,On Time
+PKG0045,27.36,26.64,High,Rainy,Van,3.31,6.94,Delayed
+PKG0046,66.93,18.67,Medium,Rainy,Van,3.21,7.07,Delayed
+PKG0047,32.55,7.37,Low,Cloudy,Bike,2.7,4.03,On Time
+PKG0048,52.97,1.22,Medium,Clear,Van,2.88,4.02,On Time
+PKG0049,55.58,26.17,Medium,Clear,Truck,2.0,4.81,On Time
+PKG0050,20.12,1.13,Low,Clear,Bike,2.84,3.75,On Time
+PKG0051,97.02,26.3,Medium,Clear,Truck,1.39,4.8,On Time
+PKG0052,77.96,16.1,Medium,Cloudy,Van,4.12,7.02,On Time
+PKG0053,94.07,28.2,Low,Clear,Truck,1.34,5.28,On Time
+PKG0054,89.69,24.06,High,Clear,Van,0.88,5.14,Delayed
+PKG0055,60.59,29.94,High,Rainy,Van,2.46,7.19,Delayed
+PKG0056,92.34,10.85,Medium,Stormy,Bike,3.46,9.37,Delayed
+PKG0057,10.67,23.13,Medium,Cloudy,Truck,2.47,3.49,On Time
+PKG0058,21.21,12.36,Medium,Clear,Bike,1.75,3.48,On Time
+PKG0059,6.43,14.66,Medium,Clear,Truck,3.01,4.08,On Time
+PKG0060,33.88,19.01,Medium,Stormy,Truck,2.06,5.44,Delayed
+PKG0061,40.09,26.27,Low,Clear,Bike,4.7,6.66,On Time
+PKG0062,28.59,29.53,Medium,Clear,Bike,4.65,7.07,On Time
+PKG0063,83.22,23.16,High,Cloudy,Van,2.76,7.14,Delayed
+PKG0064,36.96,12.82,Medium,Cloudy,Bike,1.98,4.27,On Time
+PKG0065,29.53,12.93,Low,Cloudy,Truck,3.82,5.25,On Time
+PKG0066,55.18,22.26,High,Clear,Bike,0.67,4.38,Delayed
+PKG0067,15.81,7.54,Low,Clear,Bike,2.64,2.77,On Time
+PKG0068,80.62,3.76,Low,Stormy,Truck,2.01,6.09,Delayed
+PKG0069,9.31,10.96,Low,Clear,Van,4.64,5.19,On Time
+PKG0070,98.71,8.97,Medium,Rainy,Truck,0.55,5.04,Delayed
+PKG0071,77.68,9.24,High,Rainy,Bike,2.99,8.37,Delayed
+PKG0072,21.47,7.39,Medium,Cloudy,Van,3.83,5.27,On Time
+PKG0073,2.54,1.74,Low,Clear,Van,2.68,2.69,On Time
+PKG0074,81.92,1.03,High,Clear,Van,0.88,4.21,On Time
+PKG0075,71.27,29.64,High,Cloudy,Van,4.88,8.88,Delayed
+PKG0076,73.44,13.12,High,Rainy,Van,2.83,7.61,Delayed
+PKG0077,77.58,11.84,Low,Stormy,Van,3.26,7.31,Delayed
+PKG0078,9.26,20.55,Medium,Clear,Bike,1.56,2.86,On Time
+PKG0079,37.13,6.94,High,Clear,Van,2.68,5.69,Delayed
+PKG0080,13.36,28.52,High,Stormy,Bike,2.43,6.07,Delayed
+PKG0081,86.58,23.7,Low,Rainy,Van,0.84,4.36,On Time
+PKG0082,63.08,3.14,Low,Rainy,Bike,0.98,4.11,On Time
+PKG0083,34.43,12.82,Medium,Clear,Van,4.27,6.17,On Time
+PKG0084,8.23,26.43,High,Cloudy,Van,1.58,4.11,Delayed
+PKG0085,32.48,28.37,Medium,Rainy,Bike,1.38,5.05,Delayed
+PKG0086,33.87,14.29,Medium,Rainy,Bike,2.77,5.63,Delayed
+PKG0087,73.5,18.6,Low,Cloudy,Bike,3.96,7.62,On Time
+PKG0088,64.48,5.43,Medium,Clear,Van,0.78,3.14,On Time
+PKG0089,88.95,29.74,High,Cloudy,Truck,3.1,8.04,Delayed
+PKG0090,48.28,7.33,Medium,Clear,Bike,1.04,3.78,On Time
+PKG0091,13.72,28.31,High,Cloudy,Van,0.66,3.17,Delayed
+PKG0092,71.9,19.66,High,Stormy,Bike,0.74,7.16,Delayed
+PKG0093,76.56,18.43,Low,Clear,Van,4.25,6.42,On Time
+PKG0094,57.01,15.62,Medium,Rainy,Truck,1.03,4.52,Delayed
+PKG0095,77.55,7.3,Low,Clear,Bike,0.7,3.94,On Time
+PKG0096,50.39,5.71,High,Rainy,Van,2.47,6.6,Delayed
+PKG0097,53.23,7.0,Medium,Stormy,Bike,4.3,9.06,Delayed
+PKG0098,43.9,6.0,Medium,Clear,Bike,1.68,3.96,On Time
+PKG0099,4.49,23.5,High,Clear,Bike,2.4,4.94,Delayed
+PKG0100,12.57,10.83,Medium,Cloudy,Bike,0.68,1.99,On Time
+PKG0101,5.08,2.21,High,Clear,Van,2.52,4.61,Delayed
+PKG0102,64.37,29.09,Medium,Rainy,Van,3.1,6.88,Delayed
+PKG0103,32.81,26.57,Low,Stormy,Van,3.07,5.22,On Time
+PKG0104,51.84,27.87,Medium,Cloudy,Bike,2.0,5.52,On Time
+PKG0105,90.94,29.85,High,Clear,Bike,1.92,7.61,Delayed
+PKG0106,26.43,5.63,Medium,Cloudy,Van,0.98,2.5,On Time
+PKG0107,42.22,12.19,High,Rainy,Truck,2.15,6.49,Delayed
+PKG0108,76.04,22.87,High,Clear,Bike,0.95,5.89,Delayed
+PKG0109,24.42,21.03,Low,Cloudy,Truck,3.95,4.97,On Time
+PKG0110,9.54,5.04,High,Cloudy,Van,4.85,7.19,Delayed
+PKG0111,30.4,24.57,Low,Cloudy,Van,4.87,6.45,On Time
+PKG0112,17.8,7.12,Low,Clear,Van,4.39,4.9,On Time
+PKG0113,93.11,7.1,Low,Rainy,Bike,3.2,8.18,On Time
+PKG0114,81.2,16.34,High,Clear,Bike,3.65,9.05,Delayed
+PKG0115,64.07,17.99,Medium,Clear,Van,1.78,3.75,On Time
+PKG0116,87.4,17.61,Low,Rainy,Bike,3.34,7.74,On Time
+PKG0117,80.76,3.2,Medium,Rainy,Truck,2.55,6.29,On Time
+PKG0118,20.28,26.39,Medium,Clear,Van,2.67,4.47,On Time
+PKG0119,89.47,8.34,Low,Clear,Bike,3.91,6.83,On Time
+PKG0120,54.86,4.32,High,Clear,Van,1.77,5.72,Delayed
+PKG0121,81.13,26.72,High,Clear,Bike,1.93,7.49,Delayed
+PKG0122,89.82,28.69,Medium,Clear,Van,4.66,8.13,On Time
+PKG0123,33.16,25.93,High,Clear,Van,0.75,4.07,Delayed
+PKG0124,12.79,24.38,Medium,Cloudy,Truck,2.69,5.12,Delayed
+PKG0125,24.34,19.83,High,Rainy,Van,4.61,8.33,Delayed
+PKG0126,43.86,16.75,Medium,Cloudy,Van,3.25,5.88,Delayed
+PKG0127,82.17,3.07,Medium,Rainy,Van,2.96,6.65,Delayed
+PKG0128,86.35,12.55,Low,Clear,Truck,1.62,4.23,On Time
+PKG0129,2.68,11.49,High,Stormy,Bike,2.04,5.43,Delayed
+PKG0130,52.05,8.16,Medium,Rainy,Bike,4.33,7.84,On Time
+PKG0131,42.91,21.84,Low,Rainy,Bike,3.02,5.66,On Time
+PKG0132,23.77,15.13,Low,Rainy,Bike,2.82,4.39,On Time
+PKG0133,13.75,2.89,Medium,Stormy,Van,0.95,3.56,Delayed
+PKG0134,35.09,7.0,Medium,Cloudy,Van,0.57,2.05,On Time
+PKG0135,94.41,20.66,Medium,Clear,Van,4.84,8.32,On Time
+PKG0136,33.67,2.75,High,Cloudy,Bike,2.2,5.58,Delayed
+PKG0137,52.84,25.61,Low,Rainy,Van,3.21,5.76,On Time
+PKG0138,70.9,15.11,Medium,Rainy,Bike,0.86,5.32,Delayed
+PKG0139,37.64,14.68,Low,Cloudy,Van,3.57,5.9,On Time
+PKG0140,97.23,17.98,High,Clear,Van,4.7,9.56,Delayed
+PKG0141,96.32,24.83,High,Clear,Bike,3.09,8.69,Delayed
+PKG0142,26.67,10.76,Medium,Stormy,Bike,1.07,4.62,Delayed
+PKG0143,50.73,20.5,Medium,Cloudy,Bike,3.12,6.27,On Time
+PKG0144,31.49,17.19,Medium,Cloudy,Truck,3.95,5.8,On Time
+PKG0145,29.91,8.38,Medium,Clear,Truck,2.33,3.66,On Time
+PKG0146,5.61,26.42,High,Clear,Van,4.46,6.88,Delayed
+PKG0147,61.74,24.02,Medium,Rainy,Bike,3.42,7.6,Delayed
+PKG0148,51.26,19.92,Medium,Rainy,Van,4.55,7.97,Delayed
+PKG0149,7.04,25.59,Medium,Rainy,Van,3.31,5.72,Delayed
+PKG0150,29.31,26.09,High,Cloudy,Van,1.09,4.63,Delayed
+PKG0151,91.01,21.4,Medium,Cloudy,Bike,1.89,6.6,On Time
+PKG0152,25.48,25.19,Low,Clear,Bike,1.41,2.95,On Time
+PKG0153,16.2,21.08,Medium,Rainy,Van,4.59,7.05,Delayed
+PKG0154,49.97,20.56,High,Cloudy,Van,3.92,7.34,Delayed
+PKG0155,98.59,18.75,Low,Cloudy,Bike,3.54,7.78,On Time
+PKG0156,25.72,22.71,Low,Cloudy,Bike,1.85,3.95,On Time
+PKG0157,67.87,5.18,Low,Stormy,Van,1.33,4.67,Delayed
+PKG0158,76.64,26.49,Medium,Clear,Truck,3.9,7.43,On Time
+PKG0159,25.29,26.22,Medium,Rainy,Truck,2.63,5.05,Delayed
+PKG0160,73.37,1.36,Medium,Clear,Van,1.52,3.76,On Time
+PKG0161,38.04,24.86,Medium,Cloudy,Van,3.27,5.42,On Time
+PKG0162,63.97,4.3,Medium,Clear,Bike,0.68,4.02,On Time
+PKG0163,64.09,10.39,Medium,Clear,Van,1.97,4.16,On Time
+PKG0164,54.51,22.43,High,Cloudy,Van,2.61,6.31,Delayed
+PKG0165,10.85,5.24,Medium,Clear,Van,1.17,1.76,On Time
+PKG0166,83.86,24.63,High,Cloudy,Van,4.93,9.06,Delayed
+PKG0167,33.44,25.05,Medium,Stormy,Bike,1.44,5.6,Delayed
+PKG0168,20.28,15.47,Low,Clear,Bike,1.09,2.31,On Time
+PKG0169,6.0,0.69,Medium,Rainy,Bike,1.42,3.1,On Time
+PKG0170,59.91,8.97,Medium,Cloudy,Bike,3.96,7.19,On Time
+PKG0171,68.4,18.7,Medium,Rainy,Bike,2.41,6.67,Delayed
+PKG0172,3.63,29.44,Low,Clear,Truck,3.04,3.47,On Time
+PKG0173,52.19,19.14,Low,Clear,Van,0.59,2.38,On Time
+PKG0174,24.2,8.16,High,Clear,Van,0.65,3.41,Delayed
+PKG0175,65.23,19.2,Low,Clear,Truck,2.51,4.51,On Time
+PKG0176,19.09,16.43,High,Clear,Truck,4.17,6.37,Delayed
+PKG0177,69.71,23.51,Low,Rainy,Van,4.48,7.46,On Time
+PKG0178,39.9,3.66,Medium,Rainy,Truck,0.89,3.39,On Time
+PKG0179,93.8,22.95,Medium,Rainy,Bike,2.92,8.41,Delayed
+PKG0180,15.48,16.47,Medium,Rainy,Bike,4.61,7.42,Delayed
+PKG0181,35.42,28.91,Medium,Clear,Van,2.25,4.57,On Time
+PKG0182,13.12,10.59,Low,Clear,Van,4.23,4.76,On Time
+PKG0183,92.62,19.16,Low,Clear,Van,1.1,3.32,On Time
+PKG0184,87.98,27.99,Medium,Clear,Bike,4.71,9.46,On Time
+PKG0185,27.28,3.52,Medium,Cloudy,Bike,3.88,6.34,On Time
+PKG0186,66.68,28.15,High,Cloudy,Van,4.74,8.72,Delayed
+PKG0187,82.09,20.79,High,Clear,Bike,3.54,9.29,Delayed
+PKG0188,56.41,2.5,High,Clear,Van,2.14,5.73,Delayed
+PKG0189,53.91,9.38,High,Rainy,Van,4.72,9.26,Delayed
+PKG0190,25.7,21.39,Medium,Rainy,Van,1.74,4.34,Delayed
+PKG0191,11.12,2.49,Low,Clear,Van,1.99,2.48,On Time
+PKG0192,89.93,17.67,High,Stormy,Truck,3.65,10.16,Delayed
+PKG0193,90.24,10.7,Medium,Stormy,Van,3.94,8.74,Delayed
+PKG0194,64.04,18.82,Medium,Clear,Van,4.68,7.16,On Time
+PKG0195,35.22,1.85,Low,Clear,Van,1.42,2.19,On Time
+PKG0196,36.22,26.21,Medium,Cloudy,Bike,4.09,7.0,On Time
+PKG0197,73.14,29.22,Medium,Stormy,Bike,3.82,9.05,Delayed
+PKG0198,89.92,29.08,High,Rainy,Bike,0.79,7.33,Delayed
+PKG0199,88.93,22.61,Medium,Clear,Van,2.24,5.88,On Time
+PKG0200,78.43,4.34,Medium,Clear,Van,1.77,3.89,On Time
+PKG0201,64.92,22.87,High,Cloudy,Truck,1.87,6.53,Delayed
+PKG0202,10.25,1.23,Low,Cloudy,Bike,4.92,5.94,On Time
+PKG0203,17.84,1.15,Medium,Clear,Bike,3.39,4.73,On Time
+PKG0204,90.06,10.05,Low,Rainy,Truck,3.73,7.42,On Time
+PKG0205,61.43,14.91,Medium,Rainy,Bike,4.89,9.12,Delayed
+PKG0206,2.9,23.23,High,Rainy,Van,2.2,5.54,Delayed
+PKG0207,11.94,20.66,Low,Rainy,Van,4.11,5.81,On Time
+PKG0208,67.02,13.65,High,Rainy,Van,2.46,6.47,Delayed
+PKG0209,2.5,8.57,Low,Cloudy,Bike,4.41,5.06,On Time
+PKG0210,17.76,29.92,High,Cloudy,Bike,1.31,4.41,Delayed
+PKG0211,55.78,13.07,High,Clear,Bike,4.76,8.96,Delayed
+PKG0212,69.81,13.82,High,Rainy,Van,1.48,5.76,Delayed
+PKG0213,65.89,5.33,Low,Clear,Van,1.97,4.22,On Time
+PKG0214,23.98,23.95,High,Rainy,Bike,3.9,8.08,Delayed
+PKG0215,71.79,20.96,Medium,Clear,Van,2.27,4.91,On Time
+PKG0216,25.25,7.01,Medium,Clear,Truck,3.24,4.42,On Time
+PKG0217,33.89,2.93,High,Clear,Bike,2.5,5.53,Delayed
+PKG0218,75.16,20.57,Low,Clear,Van,3.84,6.16,On Time
+PKG0219,65.66,19.81,High,Rainy,Van,1.53,6.09,Delayed
+PKG0220,85.22,8.56,Low,Rainy,Bike,0.76,5.47,On Time
+PKG0221,66.45,28.55,Medium,Cloudy,Bike,1.85,6.17,Delayed
+PKG0222,57.69,4.96,Medium,Clear,Van,2.63,5.19,On Time
+PKG0223,11.18,13.25,Low,Clear,Truck,1.26,1.88,On Time
+PKG0224,38.04,28.34,Low,Clear,Truck,2.1,3.2,On Time
+PKG0225,27.99,12.88,Low,Clear,Van,2.3,3.13,On Time
+PKG0226,25.91,19.34,Medium,Rainy,Van,0.76,3.57,Delayed
+PKG0227,97.36,12.23,Medium,Clear,Van,3.12,6.47,On Time
+PKG0228,40.52,8.59,Medium,Clear,Van,4.48,6.52,On Time
+PKG0229,89.42,29.53,Low,Clear,Van,1.18,3.76,On Time
+PKG0230,63.85,12.58,Low,Clear,Bike,3.19,5.62,On Time
+PKG0231,79.89,26.88,Medium,Cloudy,Van,3.49,6.85,On Time
+PKG0232,51.26,7.28,Low,Cloudy,Van,2.39,4.12,On Time
+PKG0233,58.54,6.79,High,Clear,Van,3.65,6.77,Delayed
+PKG0234,50.27,1.42,High,Clear,Truck,2.35,5.49,Delayed
+PKG0235,21.13,19.72,Medium,Clear,Bike,2.77,4.38,On Time
+PKG0236,72.8,11.37,Medium,Clear,Bike,0.53,4.7,On Time
+PKG0237,29.52,26.0,High,Clear,Bike,3.61,6.84,Delayed
+PKG0238,4.38,14.46,Low,Stormy,Van,3.48,5.74,Delayed
+PKG0239,65.26,29.06,Low,Cloudy,Van,0.67,3.45,On Time
+PKG0240,19.36,5.97,Low,Cloudy,Bike,2.16,3.25,On Time
+PKG0241,94.16,26.12,High,Cloudy,Van,4.91,9.35,Delayed
+PKG0242,95.49,23.41,Low,Cloudy,Van,2.39,4.75,On Time
+PKG0243,91.66,23.24,Medium,Cloudy,Van,2.76,5.96,On Time
+PKG0244,38.28,25.42,High,Rainy,Van,4.59,8.07,Delayed
+PKG0245,3.51,22.95,High,Rainy,Van,3.73,7.13,Delayed
+PKG0246,92.98,18.97,Medium,Clear,Truck,3.12,6.85,On Time
+PKG0247,43.96,4.37,Low,Cloudy,Bike,4.09,6.28,On Time
+PKG0248,96.73,1.46,High,Cloudy,Bike,4.39,9.61,On Time
+PKG0249,96.43,27.67,Medium,Rainy,Van,2.56,6.58,Delayed
+PKG0250,85.59,18.69,Low,Cloudy,Truck,2.64,5.88,On Time
+PKG0251,30.86,24.0,Low,Cloudy,Van,2.24,3.71,On Time
+PKG0252,39.74,14.7,High,Clear,Bike,4.85,8.37,Delayed
+PKG0253,85.41,3.96,Medium,Cloudy,Bike,3.64,8.29,On Time
+PKG0254,33.06,4.19,High,Clear,Van,0.87,4.0,Delayed
+PKG0255,18.61,20.72,High,Clear,Bike,4.38,7.12,Delayed
+PKG0256,56.57,13.19,Medium,Clear,Van,2.66,5.04,On Time
+PKG0257,93.74,6.42,Medium,Rainy,Truck,0.81,5.19,Delayed
+PKG0258,70.21,15.0,Medium,Clear,Van,2.97,6.42,Delayed
+PKG0259,57.87,2.39,Medium,Clear,Van,2.38,3.98,On Time
+PKG0260,11.52,17.67,Medium,Rainy,Van,4.45,6.76,Delayed
+PKG0261,62.27,8.44,High,Clear,Bike,1.42,5.75,Delayed
+PKG0262,99.03,24.03,Medium,Cloudy,Truck,4.22,8.58,Delayed
+PKG0263,15.73,9.66,High,Cloudy,Van,3.01,5.35,Delayed
+PKG0264,52.8,13.93,Medium,Clear,Van,0.75,3.01,On Time
+PKG0265,87.98,0.84,Medium,Rainy,Van,4.87,8.85,Delayed
+PKG0266,74.6,2.64,Medium,Clear,Van,2.81,6.4,Delayed
+PKG0267,70.31,12.08,Medium,Cloudy,Van,1.81,4.99,On Time
+PKG0268,70.84,14.66,Medium,Cloudy,Bike,2.61,6.41,On Time
+PKG0269,37.23,18.2,Low,Cloudy,Truck,4.36,5.82,On Time
+PKG0270,30.77,9.1,Medium,Rainy,Truck,1.87,4.3,Delayed
+PKG0271,81.32,21.0,Low,Clear,Van,1.37,3.18,On Time
+PKG0272,81.39,25.87,Medium,Clear,Truck,1.08,4.44,On Time
+PKG0273,86.97,23.51,Medium,Rainy,Bike,1.84,7.44,Delayed
+PKG0274,91.5,1.67,Medium,Cloudy,Van,4.01,6.94,On Time
+PKG0275,52.11,14.67,High,Rainy,Van,2.62,7.01,Delayed
+PKG0276,51.15,3.6,Medium,Rainy,Van,1.52,4.55,Delayed
+PKG0277,80.23,7.64,Medium,Rainy,Van,1.25,4.7,On Time
+PKG0278,65.7,29.61,Medium,Cloudy,Bike,2.0,6.03,On Time
+PKG0279,70.79,4.7,Medium,Clear,Bike,4.73,8.86,On Time
+PKG0280,79.99,15.22,Low,Rainy,Van,2.04,5.29,On Time
+PKG0281,89.22,18.74,Low,Cloudy,Bike,4.95,9.05,On Time
+PKG0282,35.12,21.22,Medium,Clear,Van,2.68,4.55,On Time
+PKG0283,38.81,17.01,Medium,Rainy,Bike,1.31,4.69,Delayed
+PKG0284,11.21,0.79,Low,Rainy,Bike,4.51,5.62,On Time
+PKG0285,58.67,10.13,Low,Cloudy,Van,2.57,3.81,On Time
+PKG0286,5.52,15.77,Low,Clear,Van,3.69,4.68,On Time
+PKG0287,47.63,3.09,High,Clear,Truck,4.93,8.13,Delayed
+PKG0288,55.18,10.84,Medium,Rainy,Van,0.73,3.94,Delayed
+PKG0289,30.08,1.48,Medium,Stormy,Bike,0.94,4.4,Delayed
+PKG0290,59.9,2.82,Low,Clear,Truck,3.74,5.27,On Time
+PKG0291,4.99,12.21,Medium,Clear,Van,1.77,2.77,On Time
+PKG0292,5.66,4.42,Low,Rainy,Bike,1.33,1.94,On Time
+PKG0293,82.61,17.24,Low,Clear,Van,0.68,3.69,On Time
+PKG0294,37.3,20.84,Medium,Cloudy,Truck,0.6,2.61,On Time
+PKG0295,14.45,24.12,Low,Stormy,Van,3.99,5.9,Delayed
+PKG0296,53.18,6.4,Low,Clear,Bike,1.1,3.19,On Time
+PKG0297,77.46,5.44,Low,Cloudy,Bike,2.6,6.42,On Time
+PKG0298,23.15,3.58,Low,Clear,Bike,3.23,4.21,On Time
+PKG0299,63.04,19.27,Low,Clear,Van,2.43,3.92,On Time
+PKG0300,10.36,21.34,Medium,Rainy,Van,0.62,3.13,Delayed
+PKG0301,7.06,1.43,High,Cloudy,Bike,4.03,6.55,Delayed
+PKG0302,54.07,28.12,Medium,Stormy,Truck,0.55,4.93,Delayed
+PKG0303,54.98,2.03,Medium,Cloudy,Van,3.93,6.55,On Time
+PKG0304,64.47,16.47,Low,Clear,Van,4.52,7.1,On Time
+PKG0305,73.16,21.42,High,Clear,Truck,2.45,7.27,Delayed
+PKG0306,97.63,26.19,Medium,Clear,Bike,2.91,7.75,On Time
+PKG0307,52.6,21.57,Low,Clear,Van,2.65,4.78,On Time
+PKG0308,33.65,24.15,Medium,Clear,Van,2.25,4.32,On Time
+PKG0309,79.93,10.51,Low,Clear,Truck,4.49,7.08,On Time
+PKG0310,28.54,24.54,Medium,Cloudy,Van,4.52,6.09,On Time
+PKG0311,45.02,2.86,Medium,Rainy,Bike,2.01,5.35,Delayed
+PKG0312,9.69,26.9,High,Rainy,Truck,3.27,6.26,Delayed
+PKG0313,4.48,16.65,Medium,Rainy,Bike,4.67,6.9,Delayed
+PKG0314,96.34,24.61,Medium,Clear,Truck,4.83,9.02,On Time
+PKG0315,83.93,13.84,High,Clear,Truck,2.79,6.52,On Time
+PKG0316,70.21,19.49,Low,Rainy,Bike,2.54,6.43,On Time
+PKG0317,42.08,16.03,Low,Cloudy,Van,1.75,3.63,On Time
+PKG0318,18.98,22.08,Medium,Clear,Bike,4.81,6.59,On Time
+PKG0319,17.33,2.91,Medium,Rainy,Van,1.14,3.39,Delayed
+PKG0320,26.52,2.28,Medium,Rainy,Van,3.11,5.46,Delayed
+PKG0321,55.82,7.79,High,Cloudy,Van,1.77,5.38,Delayed
+PKG0322,72.03,5.21,Medium,Clear,Truck,1.76,4.56,On Time
+PKG0323,66.7,26.22,Medium,Rainy,Van,2.32,5.57,Delayed
+PKG0324,29.43,6.97,Medium,Cloudy,Van,4.99,6.49,On Time
+PKG0325,95.58,29.29,High,Rainy,Truck,0.75,6.68,Delayed
+PKG0326,74.31,10.44,High,Rainy,Truck,3.1,7.94,Delayed
+PKG0327,56.33,5.87,High,Rainy,Bike,0.87,5.72,Delayed
+PKG0328,61.95,23.8,Low,Cloudy,Truck,1.2,3.45,On Time
+PKG0329,43.12,19.93,Medium,Clear,Bike,2.48,5.16,On Time
+PKG0330,26.28,15.2,Low,Rainy,Truck,2.8,4.89,On Time
+PKG0331,36.89,16.88,Low,Cloudy,Bike,1.66,3.54,On Time
+PKG0332,76.27,21.72,Low,Rainy,Bike,1.92,5.69,On Time
+PKG0333,3.41,7.24,Medium,Clear,Van,0.89,2.06,On Time
+PKG0334,13.38,29.89,Medium,Clear,Van,1.86,3.33,On Time
+PKG0335,6.51,29.26,Low,Rainy,Van,4.85,6.26,On Time
+PKG0336,5.99,19.68,Medium,Rainy,Bike,4.75,7.32,Delayed
+PKG0337,85.84,6.39,Medium,Stormy,Van,2.01,6.5,Delayed
+PKG0338,70.96,20.57,Medium,Rainy,Truck,3.07,7.04,Delayed
+PKG0339,48.47,2.63,Low,Cloudy,Van,4.59,5.74,On Time
+PKG0340,11.59,1.4,Medium,Rainy,Bike,0.53,2.5,Delayed
+PKG0341,50.18,8.1,High,Rainy,Van,4.15,8.26,Delayed
+PKG0342,48.4,14.15,Low,Cloudy,Bike,4.77,6.7,On Time
+PKG0343,18.97,26.11,Low,Cloudy,Truck,0.91,2.15,On Time
+PKG0344,44.52,21.95,Medium,Clear,Truck,1.23,3.61,On Time
+PKG0345,41.05,22.41,High,Cloudy,Van,4.82,8.19,Delayed
+PKG0346,62.35,13.05,Medium,Rainy,Van,2.92,6.54,Delayed
+PKG0347,64.24,10.71,Medium,Clear,Van,0.56,3.18,On Time
+PKG0348,6.44,11.45,Medium,Clear,Van,1.66,3.19,On Time
+PKG0349,38.71,29.64,Medium,Clear,Truck,2.52,4.52,On Time
+PKG0350,63.33,1.68,Low,Clear,Van,3.62,5.27,On Time
+PKG0351,51.31,26.08,Medium,Clear,Van,3.8,6.25,On Time
+PKG0352,85.94,17.57,High,Cloudy,Van,4.98,9.07,Delayed
+PKG0353,66.55,13.44,Medium,Stormy,Van,1.79,6.19,Delayed
+PKG0354,17.97,21.9,High,Cloudy,Truck,2.92,6.46,Delayed
+PKG0355,8.92,14.86,Medium,Clear,Van,2.9,4.09,On Time
+PKG0356,64.96,26.27,Low,Clear,Van,2.33,4.5,On Time
+PKG0357,4.6,27.07,High,Rainy,Bike,1.26,4.43,Delayed
+PKG0358,59.41,12.94,Low,Clear,Van,4.9,6.37,On Time
+PKG0359,94.14,8.67,Medium,Rainy,Van,4.34,7.83,On Time
+PKG0360,58.4,17.97,Low,Rainy,Bike,2.74,5.93,On Time
+PKG0361,40.04,27.41,Low,Rainy,Bike,3.21,5.61,On Time
+PKG0362,65.04,6.71,Medium,Clear,Van,1.52,4.51,On Time
+PKG0363,46.91,18.88,Low,Rainy,Van,2.95,5.17,On Time
+PKG0364,55.47,19.13,Medium,Clear,Van,3.63,5.95,On Time
+PKG0365,94.26,22.13,Medium,Stormy,Bike,2.82,9.44,Delayed
+PKG0366,39.84,4.38,Low,Cloudy,Van,4.96,5.94,On Time
+PKG0367,96.2,21.62,Low,Clear,Bike,3.25,7.19,On Time
+PKG0368,90.72,27.32,Medium,Clear,Van,2.17,5.62,On Time
+PKG0369,21.19,5.8,Medium,Clear,Bike,3.97,5.96,On Time
+PKG0370,8.8,7.51,Medium,Rainy,Bike,1.27,3.44,Delayed
+PKG0371,11.88,29.16,Medium,Clear,Bike,2.23,3.97,On Time
+PKG0372,3.79,5.84,High,Cloudy,Van,2.06,4.27,Delayed
+PKG0373,11.26,25.7,Medium,Clear,Bike,2.44,4.15,On Time
+PKG0374,68.93,15.02,Medium,Rainy,Van,4.02,7.58,Delayed
+PKG0375,8.98,7.79,Medium,Rainy,Van,2.68,4.26,On Time
+PKG0376,33.26,26.19,Low,Rainy,Van,4.07,6.11,On Time
+PKG0377,84.8,13.64,Medium,Rainy,Van,3.09,6.64,On Time
+PKG0378,4.28,15.69,High,Clear,Truck,2.04,4.17,Delayed
+PKG0379,81.82,11.1,Medium,Clear,Bike,4.14,8.19,On Time
+PKG0380,29.62,17.99,High,Rainy,Van,1.57,5.89,Delayed
+PKG0381,13.58,5.32,High,Clear,Bike,1.51,3.87,Delayed
+PKG0382,70.28,12.04,High,Cloudy,Bike,2.77,7.34,Delayed
+PKG0383,63.64,29.1,High,Clear,Van,1.67,5.41,Delayed
+PKG0384,87.99,8.11,Medium,Clear,Van,0.54,3.77,On Time
+PKG0385,74.04,19.87,Medium,Clear,Truck,3.42,7.09,Delayed
+PKG0386,80.74,10.09,Medium,Rainy,Van,2.8,6.34,Delayed
+PKG0387,29.64,23.32,Medium,Clear,Truck,2.5,3.97,On Time
+PKG0388,19.39,4.36,Medium,Cloudy,Bike,4.85,6.94,On Time
+PKG0389,75.56,29.11,Medium,Clear,Bike,3.07,6.86,On Time
+PKG0390,81.07,13.89,Medium,Rainy,Bike,4.39,9.26,Delayed
+PKG0391,99.07,7.46,Medium,Clear,Bike,1.13,5.88,On Time
+PKG0392,42.44,2.67,Low,Rainy,Van,3.06,4.94,On Time
+PKG0393,38.46,5.51,Medium,Rainy,Van,4.41,7.21,Delayed
+PKG0394,78.09,15.83,Low,Clear,Bike,3.12,6.28,On Time
+PKG0395,35.4,10.44,High,Stormy,Truck,3.73,8.07,Delayed
+PKG0396,93.21,24.95,Medium,Stormy,Truck,2.17,7.45,Delayed
+PKG0397,86.12,13.21,Low,Rainy,Bike,0.92,5.41,On Time
+PKG0398,44.04,7.84,Low,Rainy,Bike,2.56,5.27,On Time
+PKG0399,75.59,18.71,Medium,Clear,Bike,2.28,6.47,On Time
+PKG0400,75.95,21.35,Medium,Cloudy,Bike,4.4,9.01,Delayed
+PKG0401,12.11,5.43,Medium,Clear,Bike,1.6,3.03,On Time
+PKG0402,90.45,5.44,Low,Clear,Van,4.85,7.33,On Time
+PKG0403,51.51,1.58,Medium,Stormy,Bike,4.81,8.67,Delayed
+PKG0404,82.99,22.22,Medium,Clear,Van,1.61,4.78,On Time
+PKG0405,33.36,20.08,Medium,Rainy,Truck,2.07,5.02,Delayed
+PKG0406,89.76,14.5,Medium,Rainy,Van,4.53,8.76,Delayed
+PKG0407,40.14,25.4,Medium,Rainy,Truck,4.85,7.72,Delayed
+PKG0408,3.06,24.27,Low,Stormy,Bike,2.5,4.29,Delayed
+PKG0409,90.73,17.77,High,Clear,Van,1.94,6.05,Delayed
+PKG0410,10.95,26.11,Medium,Clear,Van,2.87,4.45,On Time
+PKG0411,33.29,6.57,Medium,Cloudy,Bike,3.59,6.33,On Time
+PKG0412,95.11,3.8,Low,Clear,Bike,1.73,5.47,On Time
+PKG0413,95.16,8.46,Medium,Clear,Van,3.81,7.34,On Time
+PKG0414,58.2,2.18,Low,Clear,Van,0.73,2.25,On Time
+PKG0415,63.92,16.17,Medium,Rainy,Van,0.72,4.07,Delayed
+PKG0416,45.95,28.13,High,Cloudy,Van,2.24,5.75,Delayed
+PKG0417,30.73,1.66,Medium,Clear,Van,2.09,3.86,On Time
+PKG0418,34.21,4.1,Low,Rainy,Bike,1.92,4.25,On Time
+PKG0419,67.91,13.84,Low,Clear,Bike,2.71,6.32,On Time
+PKG0420,75.73,28.05,Medium,Clear,Bike,1.94,5.88,On Time
+PKG0421,79.57,9.83,Low,Rainy,Bike,1.37,5.66,On Time
+PKG0422,79.38,15.46,Low,Cloudy,Truck,1.89,4.48,On Time
+PKG0423,10.94,1.73,High,Rainy,Van,4.89,7.48,Delayed
+PKG0424,50.45,4.88,Medium,Clear,Van,2.35,4.43,On Time
+PKG0425,7.64,29.61,Low,Rainy,Bike,2.5,4.09,On Time
+PKG0426,55.85,28.97,High,Cloudy,Van,3.09,7.8,Delayed
+PKG0427,45.27,0.65,Low,Cloudy,Bike,4.93,6.95,On Time
+PKG0428,89.0,28.58,High,Cloudy,Bike,1.59,7.24,Delayed
+PKG0429,36.39,19.35,Medium,Rainy,Bike,3.57,6.95,Delayed
+PKG0430,13.47,26.1,High,Cloudy,Van,3.72,5.83,Delayed
+PKG0431,16.01,13.91,Medium,Cloudy,Van,3.23,4.81,On Time
+PKG0432,76.63,15.71,High,Stormy,Van,0.9,6.31,Delayed
+PKG0433,62.59,14.92,High,Rainy,Van,3.55,8.13,Delayed
+PKG0434,11.91,20.17,Low,Cloudy,Truck,0.79,1.97,On Time
+PKG0435,10.24,4.62,High,Rainy,Bike,3.18,6.06,Delayed
+PKG0436,70.69,1.38,Medium,Clear,Bike,3.83,7.38,On Time
+PKG0437,9.13,9.58,Medium,Clear,Bike,1.45,2.48,On Time
+PKG0438,82.54,21.29,Medium,Cloudy,Van,4.29,7.33,On Time
+PKG0439,71.21,6.45,Medium,Stormy,Truck,0.64,5.11,Delayed
+PKG0440,9.97,20.37,Low,Stormy,Bike,4.3,6.12,On Time
+PKG0441,10.31,29.11,Medium,Clear,Truck,2.57,3.93,On Time
+PKG0442,98.69,3.27,Medium,Cloudy,Truck,1.48,5.05,On Time
+PKG0443,38.68,20.34,High,Clear,Bike,1.1,4.87,Delayed
+PKG0444,38.32,13.59,High,Stormy,Van,4.79,9.74,Delayed
+PKG0445,81.65,26.11,Medium,Stormy,Van,0.83,5.12,Delayed
+PKG0446,94.83,5.73,Medium,Cloudy,Truck,1.4,4.64,On Time
+PKG0447,98.63,20.93,Low,Rainy,Bike,2.07,7.09,On Time
+PKG0448,75.83,25.22,Low,Rainy,Van,3.29,6.37,On Time
+PKG0449,38.87,28.37,Low,Cloudy,Bike,2.95,5.25,On Time
+PKG0450,10.18,20.66,Medium,Clear,Van,1.07,2.25,On Time
+PKG0451,78.16,15.17,Low,Cloudy,Van,1.8,4.17,On Time
+PKG0452,56.72,18.73,High,Rainy,Van,1.57,5.93,Delayed
+PKG0453,43.57,26.13,Medium,Rainy,Truck,1.46,4.96,Delayed
+PKG0454,90.82,17.33,Medium,Clear,Truck,2.35,5.37,On Time
+PKG0455,12.9,1.4,Medium,Stormy,Truck,3.67,6.2,Delayed
+PKG0456,50.28,27.96,Low,Clear,Bike,1.48,3.97,On Time
+PKG0457,3.11,20.84,Medium,Cloudy,Van,2.15,3.26,On Time
+PKG0458,47.93,20.46,Medium,Rainy,Bike,2.26,6.55,Delayed
+PKG0459,7.52,6.86,Medium,Rainy,Van,4.89,6.54,On Time
+PKG0460,13.64,19.94,Medium,Cloudy,Van,4.8,6.43,On Time
+PKG0461,13.52,12.12,High,Clear,Van,4.1,6.54,Delayed
+PKG0462,65.62,19.71,High,Clear,Van,1.59,5.1,Delayed
+PKG0463,75.11,3.64,Medium,Cloudy,Truck,0.81,3.46,On Time
+PKG0464,59.17,19.91,Medium,Cloudy,Bike,1.93,5.47,On Time
+PKG0465,96.29,29.98,Medium,Clear,Van,1.7,5.62,Delayed
+PKG0466,38.74,1.92,Low,Rainy,Van,2.78,4.48,On Time
+PKG0467,30.0,29.33,Medium,Cloudy,Bike,4.0,6.39,On Time
+PKG0468,87.12,12.5,Low,Rainy,Bike,4.36,9.11,On Time
+PKG0469,23.91,26.19,Medium,Rainy,Truck,4.3,6.83,Delayed
+PKG0470,96.4,23.58,Medium,Clear,Truck,2.12,5.82,On Time
+PKG0471,3.19,17.23,Low,Clear,Truck,3.59,3.98,On Time
+PKG0472,97.05,22.28,High,Rainy,Truck,1.91,7.8,Delayed
+PKG0473,6.23,26.42,High,Cloudy,Bike,0.77,4.13,Delayed
+PKG0474,89.33,12.42,Medium,Rainy,Van,3.66,7.88,Delayed
+PKG0475,53.71,10.15,Medium,Rainy,Van,0.54,3.93,Delayed
+PKG0476,99.31,20.19,High,Rainy,Van,2.34,7.52,Delayed
+PKG0477,9.23,24.33,Low,Stormy,Van,1.98,3.77,Delayed
+PKG0478,56.28,22.99,High,Cloudy,Van,3.62,7.39,Delayed
+PKG0479,96.99,24.04,Low,Cloudy,Van,3.95,7.02,On Time
+PKG0480,53.26,13.35,High,Cloudy,Van,1.87,5.08,Delayed
+PKG0481,63.68,24.63,Low,Clear,Bike,4.15,7.01,On Time
+PKG0482,70.18,4.05,High,Cloudy,Van,1.82,5.76,Delayed
+PKG0483,46.55,16.56,High,Clear,Van,2.51,5.78,Delayed
+PKG0484,63.5,0.67,Low,Stormy,Van,3.77,7.02,Delayed
+PKG0485,59.26,10.08,Medium,Cloudy,Bike,3.62,7.23,On Time
+PKG0486,90.31,11.31,High,Cloudy,Van,4.94,9.22,Delayed
+PKG0487,6.45,12.19,Medium,Clear,Bike,1.51,2.55,On Time
+PKG0488,29.53,21.02,High,Clear,Van,3.48,5.92,Delayed
+PKG0489,95.14,11.96,Medium,Clear,Van,3.24,7.08,On Time
+PKG0490,89.25,13.74,Medium,Cloudy,Van,4.62,8.06,On Time
+PKG0491,46.65,7.51,Low,Clear,Bike,1.2,3.11,On Time
+PKG0492,62.77,11.51,Low,Cloudy,Van,3.88,5.59,On Time
+PKG0493,29.18,7.2,High,Rainy,Van,3.06,7.33,Delayed
+PKG0494,20.44,2.66,Medium,Rainy,Van,1.74,3.52,On Time
+PKG0495,47.44,18.3,Medium,Rainy,Van,2.63,5.51,Delayed
+PKG0496,36.63,20.21,Medium,Clear,Van,2.0,4.09,On Time
+PKG0497,59.2,18.77,Medium,Rainy,Van,3.11,6.6,Delayed
+PKG0498,9.62,14.17,High,Rainy,Bike,4.5,7.93,Delayed
+PKG0499,97.49,11.7,High,Clear,Bike,3.06,9.43,Delayed
+PKG0500,98.65,25.97,Medium,Rainy,Van,3.34,7.9,Delayed
+PKG0501,70.42,15.81,High,Clear,Van,2.83,6.26,Delayed
+PKG0502,54.54,14.64,High,Rainy,Van,0.73,4.79,Delayed
+PKG0503,32.33,1.26,Medium,Stormy,Bike,1.55,5.2,Delayed
+PKG0504,81.75,10.57,High,Clear,Bike,2.71,8.51,Delayed
+PKG0505,69.1,11.72,Low,Rainy,Van,1.9,4.18,On Time
+PKG0506,17.94,12.27,Low,Cloudy,Bike,1.32,2.83,On Time
+PKG0507,91.27,17.62,High,Stormy,Van,2.77,8.62,Delayed
+PKG0508,82.61,16.24,Medium,Cloudy,Bike,1.95,6.75,On Time
+PKG0509,95.08,18.43,High,Rainy,Van,1.66,6.83,Delayed
+PKG0510,73.12,23.06,High,Clear,Truck,2.59,6.52,Delayed
+PKG0511,62.11,24.48,Low,Clear,Bike,1.1,4.18,On Time
+PKG0512,42.99,21.68,High,Clear,Van,4.67,8.02,Delayed
+PKG0513,93.41,28.69,Medium,Stormy,Bike,4.4,11.11,Delayed
+PKG0514,86.87,1.04,Medium,Rainy,Van,3.68,7.41,Delayed
+PKG0515,6.43,6.28,Medium,Rainy,Van,0.98,2.61,On Time
+PKG0516,4.58,0.72,High,Stormy,Van,3.99,6.9,Delayed
+PKG0517,38.89,19.6,Low,Clear,Van,4.14,5.65,On Time
+PKG0518,81.43,26.99,Medium,Clear,Truck,3.95,7.56,On Time
+PKG0519,98.75,7.68,Medium,Clear,Bike,1.01,5.54,On Time
+PKG0520,16.74,27.85,Medium,Clear,Bike,3.4,5.08,On Time
+PKG0521,60.22,2.28,Medium,Clear,Truck,4.25,6.61,On Time
+PKG0522,39.33,28.07,Low,Cloudy,Van,3.1,4.31,On Time
+PKG0523,97.05,10.87,Low,Clear,Truck,3.41,6.1,On Time
+PKG0524,84.53,3.49,Medium,Clear,Van,2.56,5.14,On Time
+PKG0525,84.16,14.83,High,Clear,Truck,2.88,7.13,Delayed
+PKG0526,47.93,8.07,Low,Clear,Van,0.65,1.75,On Time
+PKG0527,42.65,8.9,Low,Stormy,Van,3.38,5.59,On Time
+PKG0528,28.79,9.57,High,Rainy,Truck,0.87,4.99,Delayed
+PKG0529,7.52,24.19,Low,Stormy,Van,2.46,4.89,Delayed
+PKG0530,86.74,16.41,High,Cloudy,Bike,1.82,7.3,Delayed
+PKG0531,81.66,9.68,Medium,Clear,Bike,2.95,7.19,On Time
+PKG0532,99.97,18.5,High,Rainy,Bike,1.1,8.05,Delayed
+PKG0533,99.67,21.63,Low,Clear,Bike,3.61,8.28,On Time
+PKG0534,56.43,8.54,Low,Clear,Bike,4.08,6.22,On Time
+PKG0535,77.36,12.7,Medium,Clear,Van,1.24,4.44,On Time
+PKG0536,94.59,4.1,High,Clear,Van,0.97,4.98,Delayed
+PKG0537,85.27,5.84,Medium,Clear,Van,1.15,3.72,On Time
+PKG0538,26.24,20.59,Low,Clear,Van,4.45,5.63,On Time
+PKG0539,46.15,5.85,High,Rainy,Bike,2.88,7.75,Delayed
+PKG0540,14.66,15.99,High,Clear,Bike,2.6,5.95,Delayed
+PKG0541,95.5,21.42,Medium,Clear,Bike,0.98,5.51,On Time
+PKG0542,61.41,3.65,High,Rainy,Van,3.42,7.77,Delayed
+PKG0543,24.41,17.24,High,Clear,Bike,4.41,7.27,Delayed
+PKG0544,67.83,8.07,Medium,Clear,Bike,4.23,8.05,On Time
+PKG0545,62.58,28.91,Low,Rainy,Van,3.32,5.68,On Time
+PKG0546,37.1,14.76,Medium,Clear,Truck,0.84,2.49,On Time
+PKG0547,13.13,24.28,Low,Clear,Bike,1.01,1.67,On Time
+PKG0548,67.81,16.73,Medium,Cloudy,Van,0.72,3.69,On Time
+PKG0549,52.99,1.78,Medium,Clear,Van,1.66,3.57,On Time
+PKG0550,77.69,19.18,Low,Cloudy,Van,1.11,3.79,On Time
+PKG0551,52.98,28.57,Medium,Rainy,Truck,1.67,5.47,Delayed
+PKG0552,85.51,18.25,Low,Clear,Bike,2.23,6.1,On Time
+PKG0553,56.09,24.67,High,Cloudy,Bike,4.74,9.84,Delayed
+PKG0554,56.97,26.58,High,Cloudy,Truck,3.25,7.4,Delayed
+PKG0555,87.91,7.23,Low,Clear,Van,4.26,6.2,On Time
+PKG0556,41.54,6.76,High,Cloudy,Van,3.7,7.25,Delayed
+PKG0557,15.13,18.52,Medium,Clear,Van,1.01,2.23,On Time
+PKG0558,4.82,12.63,Low,Cloudy,Van,3.81,4.64,On Time
+PKG0559,76.0,25.28,Low,Clear,Truck,1.74,4.76,On Time
+PKG0560,62.79,27.05,Medium,Cloudy,Truck,3.38,6.72,Delayed
+PKG0561,71.0,10.93,High,Clear,Van,2.03,5.27,On Time
+PKG0562,22.87,7.49,Medium,Rainy,Bike,4.99,7.29,On Time
+PKG0563,15.36,23.53,Low,Clear,Truck,1.69,2.88,On Time
+PKG0564,3.43,8.61,Low,Cloudy,Bike,1.76,2.23,On Time
+PKG0565,36.36,24.77,Medium,Cloudy,Bike,4.69,7.54,On Time
+PKG0566,59.81,13.0,Low,Rainy,Truck,0.61,3.54,On Time
+PKG0567,40.44,20.19,Low,Cloudy,Bike,3.64,6.02,On Time
+PKG0568,44.87,3.32,Low,Rainy,Bike,3.76,6.49,On Time
+PKG0569,90.61,18.9,High,Rainy,Bike,4.26,10.66,Delayed
+PKG0570,36.13,13.83,High,Rainy,Truck,4.88,8.58,Delayed
+PKG0571,52.37,17.8,Medium,Clear,Van,4.89,7.47,On Time
+PKG0572,78.8,5.46,High,Cloudy,Van,0.79,5.01,Delayed
+PKG0573,40.86,22.24,Medium,Rainy,Bike,4.2,7.64,Delayed
+PKG0574,62.96,25.95,Medium,Stormy,Van,3.41,7.95,Delayed
+PKG0575,86.51,6.89,Low,Rainy,Van,3.41,6.44,On Time
+PKG0576,95.05,3.32,Medium,Clear,Bike,1.08,5.43,On Time
+PKG0577,16.41,1.2,High,Clear,Van,3.43,5.38,Delayed
+PKG0578,92.81,19.44,Medium,Cloudy,Bike,4.92,9.63,On Time
+PKG0579,50.23,18.41,Medium,Rainy,Truck,4.6,7.78,Delayed
+PKG0580,27.31,16.63,Medium,Cloudy,Van,2.48,4.78,Delayed
+PKG0581,47.0,7.34,Low,Cloudy,Truck,0.68,2.14,On Time
+PKG0582,98.04,12.03,High,Rainy,Bike,2.13,8.84,Delayed
+PKG0583,50.28,18.04,Medium,Clear,Van,4.22,6.3,On Time
+PKG0584,34.22,15.15,Medium,Rainy,Van,3.66,6.21,Delayed
+PKG0585,64.07,29.64,Medium,Cloudy,Van,2.57,5.16,On Time
+PKG0586,25.53,4.52,Medium,Clear,Truck,0.75,2.23,On Time
+PKG0587,9.43,21.01,Low,Cloudy,Van,2.42,3.16,On Time
+PKG0588,14.63,12.43,Medium,Rainy,Bike,2.61,5.09,Delayed
+PKG0589,14.55,13.13,Low,Clear,Van,4.68,5.31,On Time
+PKG0590,16.89,21.67,Medium,Clear,Van,3.38,4.52,On Time
+PKG0591,15.61,20.93,High,Stormy,Van,1.9,6.18,Delayed
+PKG0592,64.81,29.74,High,Clear,Bike,2.86,7.71,Delayed
+PKG0593,19.82,4.29,Medium,Cloudy,Van,0.8,2.42,On Time
+PKG0594,35.88,3.57,Medium,Cloudy,Bike,4.88,7.37,On Time
+PKG0595,89.89,21.87,Low,Cloudy,Van,2.12,4.79,On Time
+PKG0596,48.45,17.56,High,Cloudy,Van,2.65,6.19,Delayed
+PKG0597,67.42,8.59,Low,Clear,Van,2.1,4.06,On Time
+PKG0598,18.89,2.84,Medium,Cloudy,Bike,3.57,4.84,On Time
+PKG0599,20.84,3.03,Low,Clear,Van,3.48,3.88,On Time
+PKG0600,6.01,26.88,Low,Rainy,Bike,3.72,5.09,On Time
+PKG0601,18.56,6.16,Medium,Clear,Bike,1.71,3.37,On Time
+PKG0602,29.3,10.04,Low,Cloudy,Van,1.92,3.41,On Time
+PKG0603,19.35,7.19,Medium,Clear,Truck,1.06,2.24,On Time
+PKG0604,10.69,10.97,Medium,Clear,Van,3.45,4.48,On Time
+PKG0605,13.82,2.55,Low,Clear,Van,0.68,0.91,On Time
+PKG0606,47.16,15.81,Medium,Clear,Truck,3.19,5.28,On Time
+PKG0607,22.22,2.49,Low,Rainy,Truck,4.41,5.78,On Time
+PKG0608,37.7,24.11,Low,Clear,Bike,4.51,6.61,On Time
+PKG0609,51.33,7.39,Medium,Stormy,Truck,2.52,6.03,Delayed
+PKG0610,69.66,16.43,Low,Stormy,Van,2.57,6.19,Delayed
+PKG0611,5.85,26.46,High,Cloudy,Bike,0.85,2.97,Delayed
+PKG0612,80.34,19.7,Low,Clear,Bike,3.52,6.86,On Time
+PKG0613,63.53,16.22,Low,Clear,Van,4.2,5.93,On Time
+PKG0614,10.01,10.07,Medium,Rainy,Bike,1.6,4.2,Delayed
+PKG0615,87.61,10.32,Medium,Clear,Bike,2.4,6.73,On Time
+PKG0616,92.25,20.25,Low,Clear,Bike,4.27,7.6,On Time
+PKG0617,7.99,29.83,Medium,Cloudy,Truck,4.45,5.53,On Time
+PKG0618,29.13,20.02,Low,Rainy,Truck,1.59,3.53,On Time
+PKG0619,81.01,16.95,High,Rainy,Bike,2.98,9.21,Delayed
+PKG0620,75.33,22.05,Medium,Clear,Truck,1.37,4.72,On Time
+PKG0621,20.08,14.22,High,Rainy,Truck,0.96,4.35,Delayed
+PKG0622,22.52,2.27,High,Clear,Van,4.6,7.3,Delayed
+PKG0623,38.31,17.09,Medium,Clear,Bike,4.19,6.57,On Time
+PKG0624,49.48,28.75,High,Rainy,Van,3.92,8.41,Delayed
+PKG0625,62.59,5.67,Medium,Clear,Truck,0.72,2.85,On Time
+PKG0626,38.15,20.86,High,Clear,Van,4.3,7.05,Delayed
+PKG0627,47.33,6.43,Low,Clear,Bike,2.47,3.92,On Time
+PKG0628,75.25,16.31,Medium,Rainy,Van,2.04,5.63,Delayed
+PKG0629,5.59,3.35,Medium,Rainy,Van,2.96,4.69,Delayed
+PKG0630,26.74,13.79,Medium,Cloudy,Van,0.91,2.82,On Time
+PKG0631,71.91,22.81,Medium,Rainy,Bike,3.9,8.69,Delayed
+PKG0632,89.73,10.75,Medium,Clear,Bike,3.12,7.34,On Time
+PKG0633,52.14,20.11,Low,Cloudy,Truck,1.34,3.32,On Time
+PKG0634,54.15,23.97,Low,Clear,Truck,1.35,2.81,On Time
+PKG0635,12.5,27.85,Medium,Clear,Bike,1.33,3.41,Delayed
+PKG0636,45.85,7.42,Medium,Cloudy,Truck,0.76,3.09,On Time
+PKG0637,54.2,12.28,High,Stormy,Bike,3.15,8.61,Delayed
+PKG0638,25.76,5.0,High,Clear,Van,4.28,7.23,Delayed
+PKG0639,28.39,29.78,High,Clear,Van,0.58,3.11,Delayed
+PKG0640,38.97,27.85,Medium,Clear,Truck,0.72,2.66,On Time
+PKG0641,3.97,16.43,Low,Clear,Truck,3.08,3.11,On Time
+PKG0642,33.56,25.34,Low,Stormy,Bike,4.19,7.39,Delayed
+PKG0643,22.72,15.87,High,Cloudy,Truck,1.97,4.99,Delayed
+PKG0644,34.09,18.9,Medium,Cloudy,Bike,2.07,4.94,Delayed
+PKG0645,13.74,3.13,Low,Rainy,Van,3.18,5.14,Delayed
+PKG0646,89.27,22.78,Medium,Clear,Van,1.73,4.38,On Time
+PKG0647,60.17,4.27,High,Cloudy,Van,0.62,4.37,Delayed
+PKG0648,68.55,24.87,Medium,Cloudy,Bike,3.81,7.76,On Time
+PKG0649,79.34,23.57,Medium,Cloudy,Truck,3.32,6.76,On Time
+PKG0650,50.85,21.41,Medium,Stormy,Bike,3.11,7.53,Delayed
+PKG0651,10.52,1.57,Low,Rainy,Bike,3.84,4.81,On Time
+PKG0652,54.64,9.44,Medium,Clear,Van,3.54,6.3,On Time
+PKG0653,59.51,8.26,Medium,Rainy,Van,1.43,4.84,Delayed
+PKG0654,75.05,11.12,Low,Clear,Truck,2.09,4.41,On Time
+PKG0655,44.3,3.09,High,Clear,Van,1.07,4.38,Delayed
+PKG0656,14.5,28.14,Medium,Clear,Bike,1.08,2.38,On Time
+PKG0657,29.81,16.84,High,Clear,Truck,3.54,6.0,Delayed
+PKG0658,37.58,9.51,High,Cloudy,Van,4.36,6.79,On Time
+PKG0659,65.3,12.21,Low,Cloudy,Bike,4.83,7.67,On Time
+PKG0660,57.94,13.69,Medium,Stormy,Van,3.33,7.28,Delayed
+PKG0661,36.9,18.22,Medium,Cloudy,Van,1.33,3.56,On Time
+PKG0662,98.68,15.71,High,Cloudy,Van,0.98,5.73,Delayed
+PKG0663,61.37,27.62,Low,Clear,Van,4.16,5.69,On Time
+PKG0664,25.25,15.16,Medium,Clear,Truck,3.1,5.04,On Time
+PKG0665,11.97,29.77,Medium,Cloudy,Truck,3.28,5.14,Delayed
+PKG0666,16.98,25.62,Low,Cloudy,Van,4.02,5.3,On Time
+PKG0667,26.1,6.65,Low,Rainy,Bike,3.66,5.04,On Time
+PKG0668,17.75,27.95,Medium,Clear,Truck,4.26,6.03,On Time
+PKG0669,20.28,3.93,Medium,Clear,Van,0.75,1.71,On Time
+PKG0670,29.94,24.61,Medium,Cloudy,Van,3.86,5.86,On Time
+PKG0671,18.99,11.73,Medium,Clear,Van,4.33,5.89,On Time
+PKG0672,89.88,26.4,Medium,Clear,Truck,1.79,5.53,On Time
+PKG0673,9.86,26.11,Medium,Rainy,Van,3.38,5.31,Delayed
+PKG0674,53.4,24.27,Low,Clear,Bike,1.91,4.41,On Time
+PKG0675,42.22,23.81,High,Cloudy,Van,4.81,7.76,Delayed
+PKG0676,98.27,9.49,Low,Clear,Truck,0.65,3.95,On Time
+PKG0677,12.98,2.89,Medium,Clear,Bike,3.11,4.36,On Time
+PKG0678,40.99,12.39,Low,Clear,Truck,1.25,2.94,On Time
+PKG0679,97.01,5.62,Low,Rainy,Van,3.7,6.85,On Time
+PKG0680,86.82,21.0,Medium,Clear,Van,1.29,4.37,On Time
+PKG0681,82.07,10.71,Low,Rainy,Bike,1.56,5.57,On Time
+PKG0682,27.27,29.28,High,Clear,Bike,2.72,6.26,Delayed
+PKG0683,18.75,19.41,Low,Rainy,Truck,4.62,6.03,On Time
+PKG0684,67.53,24.76,Medium,Clear,Bike,1.45,5.47,On Time
+PKG0685,93.08,4.41,Medium,Rainy,Van,1.15,4.98,Delayed
+PKG0686,56.56,25.93,Low,Cloudy,Van,3.92,5.38,On Time
+PKG0687,58.02,27.72,Low,Stormy,Bike,2.75,6.82,Delayed
+PKG0688,29.44,14.87,Medium,Clear,Bike,4.6,6.4,On Time
+PKG0689,77.41,18.38,Medium,Clear,Van,1.16,4.13,On Time
+PKG0690,20.33,23.06,Medium,Clear,Truck,3.41,4.73,On Time
+PKG0691,33.72,5.66,Medium,Rainy,Van,1.55,4.31,Delayed
+PKG0692,43.69,15.33,Medium,Cloudy,Van,1.21,3.5,On Time
+PKG0693,51.75,12.26,Low,Rainy,Bike,3.58,6.58,On Time
+PKG0694,25.76,4.82,Medium,Clear,Van,3.17,4.83,On Time
+PKG0695,13.25,11.34,High,Clear,Van,3.9,6.44,Delayed
+PKG0696,61.84,2.51,Medium,Clear,Truck,1.89,4.44,On Time
+PKG0697,30.29,1.26,Medium,Stormy,Van,2.52,5.31,Delayed
+PKG0698,58.96,4.49,Medium,Rainy,Van,2.32,4.88,On Time
+PKG0699,17.13,28.91,High,Stormy,Bike,4.93,9.09,Delayed
+PKG0700,49.15,16.71,High,Clear,Truck,1.82,5.04,Delayed
+PKG0701,54.19,28.99,Medium,Cloudy,Bike,1.83,5.46,On Time
+PKG0702,7.08,13.26,High,Rainy,Bike,2.1,5.03,Delayed
+PKG0703,34.99,9.7,Low,Clear,Van,3.04,4.27,On Time
+PKG0704,15.17,15.43,Low,Rainy,Van,1.64,2.87,On Time
+PKG0705,8.21,13.47,High,Stormy,Van,4.62,8.26,Delayed
+PKG0706,99.02,3.62,High,Rainy,Van,1.7,7.13,Delayed
+PKG0707,33.59,19.4,Low,Rainy,Van,4.53,6.56,On Time
+PKG0708,81.37,6.87,Low,Clear,Bike,0.97,4.31,On Time
+PKG0709,26.95,18.78,Low,Clear,Truck,3.45,4.32,On Time
+PKG0710,68.79,19.68,Low,Stormy,Van,4.58,7.9,Delayed
+PKG0711,76.5,4.98,High,Clear,Van,1.26,4.74,Delayed
+PKG0712,60.37,2.31,Medium,Rainy,Van,4.86,7.79,On Time
+PKG0713,48.21,23.53,Medium,Rainy,Bike,2.54,6.6,Delayed
+PKG0714,42.36,14.06,Medium,Cloudy,Van,4.76,6.96,On Time
+PKG0715,36.19,2.22,Low,Stormy,Van,3.55,5.58,On Time
+PKG0716,93.09,29.85,Low,Clear,Bike,1.86,6.56,On Time
+PKG0717,83.4,2.2,Medium,Clear,Van,1.35,4.31,On Time
+PKG0718,96.57,21.0,High,Clear,Truck,1.87,6.27,Delayed
+PKG0719,14.18,29.52,High,Cloudy,Van,0.92,3.58,Delayed
+PKG0720,73.63,7.56,Low,Clear,Truck,1.15,3.4,On Time
+PKG0721,93.96,4.7,High,Clear,Bike,0.97,7.06,Delayed
+PKG0722,19.76,4.08,High,Rainy,Bike,2.4,5.47,Delayed
+PKG0723,8.52,9.45,High,Stormy,Bike,4.08,8.11,Delayed
+PKG0724,74.63,3.48,Medium,Clear,Van,1.14,4.23,On Time
+PKG0725,58.3,20.92,Medium,Clear,Bike,1.09,4.3,On Time
+PKG0726,84.5,2.34,Medium,Stormy,Bike,3.4,8.98,Delayed
+PKG0727,15.7,15.53,Low,Clear,Truck,1.39,1.76,On Time
+PKG0728,79.94,29.9,Low,Clear,Truck,0.94,3.61,On Time
+PKG0729,21.76,24.51,Low,Clear,Van,1.25,2.15,On Time
+PKG0730,18.04,18.65,Medium,Cloudy,Bike,4.66,6.86,On Time
+PKG0731,18.1,9.53,Medium,Clear,Bike,4.2,6.14,On Time
+PKG0732,81.83,18.9,Medium,Stormy,Bike,2.09,7.67,Delayed
+PKG0733,67.19,16.05,Low,Cloudy,Van,3.45,5.03,On Time
+PKG0734,53.26,13.07,High,Cloudy,Truck,2.92,6.63,Delayed
+PKG0735,37.17,4.36,High,Clear,Van,3.55,6.38,Delayed
+PKG0736,87.97,26.65,High,Cloudy,Bike,3.57,9.56,Delayed
+PKG0737,40.46,13.77,High,Rainy,Van,3.33,7.0,Delayed
+PKG0738,82.03,6.24,Medium,Rainy,Bike,1.7,6.66,Delayed
+PKG0739,45.04,11.35,High,Rainy,Van,0.68,4.98,Delayed
+PKG0740,38.94,12.72,Low,Cloudy,Van,2.55,4.08,On Time
+PKG0741,47.34,24.91,Medium,Stormy,Van,4.51,8.21,Delayed
+PKG0742,31.54,22.14,Low,Rainy,Bike,3.06,5.3,On Time
+PKG0743,75.27,23.19,Low,Rainy,Bike,4.25,8.36,On Time
+PKG0744,51.27,0.83,Low,Clear,Truck,4.96,6.93,On Time
+PKG0745,24.76,12.78,Medium,Clear,Bike,1.24,3.12,On Time
+PKG0746,90.16,14.7,High,Clear,Bike,3.61,9.18,Delayed
+PKG0747,39.62,1.07,Medium,Rainy,Bike,3.53,6.54,On Time
+PKG0748,55.27,8.16,Low,Cloudy,Bike,4.91,7.82,On Time
+PKG0749,90.83,22.93,High,Cloudy,Van,4.94,10.14,Delayed
+PKG0750,63.18,4.54,Medium,Rainy,Truck,3.59,7.15,Delayed
+PKG0751,13.46,16.29,Medium,Rainy,Bike,1.6,3.96,Delayed
+PKG0752,94.1,6.85,Medium,Stormy,Van,4.09,8.81,Delayed
+PKG0753,63.52,0.86,Low,Clear,Van,0.98,1.87,On Time
+PKG0754,34.82,7.62,Medium,Rainy,Van,4.01,6.77,Delayed
+PKG0755,15.65,29.29,High,Clear,Truck,4.6,7.28,Delayed
+PKG0756,79.81,24.15,Low,Clear,Truck,2.22,4.99,On Time
+PKG0757,62.77,28.81,Medium,Clear,Bike,3.34,6.82,On Time
+PKG0758,54.28,14.89,High,Clear,Van,2.44,5.66,Delayed
+PKG0759,89.6,3.74,Medium,Cloudy,Van,2.47,5.64,On Time
+PKG0760,79.28,16.66,Low,Rainy,Truck,1.9,5.52,On Time
+PKG0761,16.86,13.9,Low,Clear,Van,3.93,4.45,On Time
+PKG0762,32.55,25.41,Low,Rainy,Truck,4.71,7.45,Delayed
+PKG0763,26.35,3.39,Medium,Cloudy,Van,4.73,6.57,On Time
+PKG0764,74.91,14.9,Medium,Clear,Bike,1.29,4.88,On Time
+PKG0765,5.29,4.93,Low,Cloudy,Van,4.44,4.86,On Time
+PKG0766,57.85,10.08,High,Clear,Truck,3.82,7.18,Delayed
+PKG0767,76.72,22.25,Medium,Cloudy,Truck,1.64,4.51,On Time
+PKG0768,87.92,14.54,Low,Cloudy,Bike,0.8,5.26,On Time
+PKG0769,35.52,11.59,Medium,Clear,Van,1.71,3.73,On Time
+PKG0770,82.48,12.14,Medium,Clear,Bike,4.6,8.99,On Time
+PKG0771,12.84,14.05,Low,Cloudy,Bike,3.35,4.37,On Time
+PKG0772,84.95,23.66,Low,Stormy,Van,3.74,7.3,On Time
+PKG0773,14.49,26.82,High,Clear,Bike,1.66,4.25,Delayed
+PKG0774,40.93,28.68,Medium,Rainy,Truck,3.74,7.14,Delayed
+PKG0775,80.13,23.71,Medium,Rainy,Bike,0.63,5.43,Delayed
+PKG0776,16.69,9.8,Medium,Stormy,Truck,2.19,4.3,Delayed
+PKG0777,24.47,20.8,Low,Rainy,Bike,3.32,5.34,On Time
+PKG0778,72.78,13.41,Low,Cloudy,Bike,1.16,4.48,On Time
+PKG0779,72.56,8.01,Medium,Rainy,Bike,4.2,8.81,Delayed
+PKG0780,64.83,25.31,Low,Rainy,Bike,1.56,5.55,On Time
+PKG0781,70.01,1.63,Low,Clear,Bike,3.44,6.46,On Time
+PKG0782,55.19,27.1,High,Clear,Bike,2.32,6.76,Delayed
+PKG0783,26.68,14.11,High,Clear,Van,3.18,6.17,Delayed
+PKG0784,35.88,19.3,High,Rainy,Bike,0.98,4.8,Delayed
+PKG0785,19.8,19.95,High,Rainy,Van,0.58,4.08,Delayed
+PKG0786,91.03,26.91,Low,Clear,Van,4.59,7.46,On Time
+PKG0787,59.17,19.28,High,Cloudy,Truck,1.71,5.32,Delayed
+PKG0788,41.28,18.61,Low,Cloudy,Truck,4.19,5.45,On Time
+PKG0789,47.28,2.47,High,Clear,Van,5.0,7.75,Delayed
+PKG0790,94.83,15.79,High,Stormy,Bike,1.45,8.53,Delayed
+PKG0791,17.03,4.93,Medium,Clear,Bike,1.69,3.42,On Time
+PKG0792,59.45,22.25,High,Clear,Truck,3.48,7.08,Delayed
+PKG0793,51.58,15.61,Medium,Cloudy,Bike,4.84,7.88,On Time
+PKG0794,61.92,20.57,Low,Rainy,Bike,4.62,8.02,On Time
+PKG0795,3.77,1.73,Medium,Clear,Bike,2.76,4.02,On Time
+PKG0796,87.47,3.0,Medium,Rainy,Bike,4.08,9.18,Delayed
+PKG0797,93.35,21.63,Low,Cloudy,Bike,1.11,5.36,On Time
+PKG0798,57.38,2.63,Medium,Clear,Van,4.9,7.09,On Time
+PKG0799,70.27,2.6,High,Clear,Bike,4.84,9.83,Delayed
+PKG0800,92.4,0.86,Low,Cloudy,Van,1.24,3.59,On Time
+PKG0801,71.31,28.72,High,Clear,Bike,1.85,7.28,Delayed
+PKG0802,16.95,22.26,High,Stormy,Bike,0.95,5.28,Delayed
+PKG0803,58.48,10.92,High,Rainy,Truck,1.72,6.06,Delayed
+PKG0804,61.46,9.25,High,Stormy,Bike,4.17,10.77,Delayed
+PKG0805,43.56,10.82,Medium,Clear,Truck,2.2,4.04,On Time
+PKG0806,74.17,23.35,High,Stormy,Van,0.9,6.25,Delayed
+PKG0807,93.57,20.01,High,Cloudy,Bike,2.04,7.71,Delayed
+PKG0808,92.71,5.96,Low,Clear,Truck,4.92,7.94,On Time
+PKG0809,46.18,5.64,Medium,Clear,Bike,3.33,6.52,On Time
+PKG0810,13.1,3.4,Medium,Clear,Truck,2.37,4.05,On Time
+PKG0811,98.51,19.98,Low,Rainy,Bike,1.25,6.66,On Time
+PKG0812,84.21,23.05,Medium,Cloudy,Truck,4.94,8.63,On Time
+PKG0813,14.22,8.32,Medium,Clear,Bike,4.19,5.52,On Time
+PKG0814,92.24,1.12,Low,Cloudy,Van,1.77,3.84,On Time
+PKG0815,87.25,2.92,Medium,Clear,Van,0.82,4.41,On Time
+PKG0816,52.85,29.05,High,Cloudy,Truck,0.75,4.84,Delayed
+PKG0817,59.94,9.22,Medium,Clear,Truck,1.04,3.49,On Time
+PKG0818,41.1,23.19,Low,Rainy,Truck,3.11,5.83,Delayed
+PKG0819,7.37,18.93,Low,Rainy,Truck,4.68,5.68,On Time
+PKG0820,34.85,11.77,Medium,Cloudy,Bike,2.74,5.43,On Time
+PKG0821,80.68,6.57,High,Clear,Bike,4.29,9.31,Delayed
+PKG0822,2.45,4.08,Low,Clear,Bike,2.51,2.86,On Time
+PKG0823,34.68,18.64,Medium,Rainy,Van,3.69,6.37,Delayed
+PKG0824,41.02,23.35,Low,Clear,Van,3.79,4.73,On Time
+PKG0825,54.66,19.5,Medium,Clear,Van,1.28,3.71,On Time
+PKG0826,92.15,16.14,High,Clear,Bike,2.13,8.12,Delayed
+PKG0827,35.94,1.74,Medium,Cloudy,Van,3.37,5.29,On Time
+PKG0828,36.0,29.07,Low,Cloudy,Bike,0.82,3.18,On Time
+PKG0829,74.28,24.06,Medium,Rainy,Bike,2.13,6.7,Delayed
+PKG0830,46.32,9.14,Low,Clear,Van,2.91,4.2,On Time
+PKG0831,24.01,29.41,Medium,Clear,Van,4.98,6.58,On Time
+PKG0832,46.34,18.26,Medium,Rainy,Van,2.64,5.85,Delayed
+PKG0833,15.8,17.68,Low,Rainy,Van,4.17,5.64,On Time
+PKG0834,19.29,22.57,Low,Clear,Bike,2.44,3.76,On Time
+PKG0835,50.84,24.45,Medium,Cloudy,Van,4.08,7.04,Delayed
+PKG0836,43.05,19.87,High,Clear,Bike,3.18,7.16,Delayed
+PKG0837,91.65,4.28,High,Stormy,Van,4.49,10.18,Delayed
+PKG0838,37.51,10.48,Low,Clear,Van,2.35,3.15,On Time
+PKG0839,58.9,27.88,High,Stormy,Bike,3.22,9.24,Delayed
+PKG0840,63.96,7.13,Medium,Rainy,Bike,3.34,7.4,Delayed
+PKG0841,3.28,11.48,Medium,Cloudy,Truck,2.38,3.54,On Time
+PKG0842,67.03,13.25,High,Clear,Truck,1.15,4.9,Delayed
+PKG0843,19.45,13.46,High,Cloudy,Van,0.92,3.31,Delayed
+PKG0844,96.18,18.58,High,Cloudy,Bike,0.58,6.12,Delayed
+PKG0845,16.57,28.32,Medium,Clear,Bike,4.43,6.07,On Time
+PKG0846,42.63,7.6,Medium,Rainy,Van,1.56,4.35,Delayed
+PKG0847,10.36,4.08,High,Stormy,Truck,1.45,4.65,Delayed
+PKG0848,99.69,6.33,Low,Cloudy,Bike,3.81,8.15,On Time
+PKG0849,51.22,26.66,Medium,Rainy,Van,1.94,5.74,Delayed
+PKG0850,60.35,19.55,Medium,Clear,Bike,2.78,6.54,On Time
+PKG0851,8.57,8.93,Medium,Cloudy,Truck,1.23,3.1,Delayed
+PKG0852,75.5,24.57,Low,Clear,Van,4.82,7.19,On Time
+PKG0853,22.57,25.91,Low,Cloudy,Van,4.33,5.88,On Time
+PKG0854,90.01,25.47,High,Stormy,Bike,4.39,11.41,Delayed
+PKG0855,22.1,27.61,Low,Rainy,Van,2.33,3.9,On Time
+PKG0856,20.69,7.94,Medium,Clear,Bike,3.93,4.8,On Time
+PKG0857,5.58,22.77,Low,Clear,Bike,1.15,2.07,On Time
+PKG0858,48.26,14.09,Low,Cloudy,Truck,0.54,2.84,On Time
+PKG0859,57.35,25.34,Low,Cloudy,Truck,0.59,2.69,On Time
+PKG0860,8.44,21.99,Low,Rainy,Truck,3.14,4.43,On Time
+PKG0861,78.0,23.41,High,Rainy,Van,2.55,7.17,Delayed
+PKG0862,46.42,19.86,Low,Cloudy,Truck,2.83,4.82,On Time
+PKG0863,53.39,5.73,High,Clear,Bike,0.53,4.84,Delayed
+PKG0864,45.19,16.58,Medium,Clear,Bike,2.4,4.68,On Time
+PKG0865,41.27,29.55,Medium,Clear,Bike,3.73,6.7,On Time
+PKG0866,56.84,28.15,Medium,Clear,Van,2.49,5.0,On Time
+PKG0867,17.21,1.77,Medium,Cloudy,Van,3.79,5.28,On Time
+PKG0868,19.83,5.36,High,Rainy,Bike,1.55,5.11,Delayed
+PKG0869,86.45,4.39,Low,Rainy,Van,4.16,7.13,On Time
+PKG0870,94.72,21.92,Medium,Clear,Truck,3.15,6.9,On Time
+PKG0871,38.58,24.62,High,Clear,Van,1.45,4.47,Delayed
+PKG0872,28.53,6.8,High,Clear,Bike,1.57,4.85,Delayed
+PKG0873,65.11,15.42,High,Clear,Bike,3.33,8.04,Delayed
+PKG0874,42.06,25.3,Medium,Rainy,Bike,4.23,7.91,Delayed
+PKG0875,4.49,22.12,High,Clear,Bike,2.37,4.25,Delayed
+PKG0876,17.3,16.5,Medium,Cloudy,Van,1.66,3.23,On Time
+PKG0877,72.17,17.92,Medium,Clear,Van,4.4,7.49,On Time
+PKG0878,66.57,15.5,Low,Rainy,Van,3.51,6.22,On Time
+PKG0879,4.66,9.28,Medium,Cloudy,Van,2.52,3.97,On Time
+PKG0880,23.75,17.17,Low,Clear,Truck,2.7,4.17,On Time
+PKG0881,24.65,20.82,Medium,Cloudy,Bike,1.42,4.03,Delayed
+PKG0882,67.85,26.26,High,Rainy,Van,3.32,7.99,Delayed
+PKG0883,3.93,19.27,Low,Stormy,Truck,2.11,3.86,Delayed
+PKG0884,12.2,22.95,Low,Clear,Bike,4.98,5.05,On Time
+PKG0885,80.39,5.22,Low,Rainy,Bike,2.66,6.7,On Time
+PKG0886,19.5,14.12,High,Stormy,Truck,2.69,6.61,Delayed
+PKG0887,65.97,0.78,Medium,Stormy,Bike,3.05,8.07,Delayed
+PKG0888,25.34,7.78,Medium,Cloudy,Van,4.63,6.33,On Time
+PKG0889,11.75,21.93,High,Cloudy,Bike,4.1,6.8,Delayed
+PKG0890,25.83,29.76,High,Cloudy,Van,2.53,5.09,Delayed
+PKG0891,72.78,3.43,Medium,Rainy,Bike,3.73,7.96,On Time
+PKG0892,85.86,12.34,Medium,Cloudy,Bike,3.14,7.9,On Time
+PKG0893,83.36,24.1,High,Rainy,Van,2.72,8.23,Delayed
+PKG0894,40.92,6.52,Medium,Cloudy,Bike,1.37,4.08,On Time
+PKG0895,67.47,16.88,Low,Rainy,Van,2.59,5.43,On Time
+PKG0896,22.09,22.13,High,Rainy,Bike,1.61,5.66,Delayed
+PKG0897,30.73,18.67,Medium,Clear,Bike,4.62,6.64,On Time
+PKG0898,89.84,6.05,Low,Rainy,Bike,2.01,6.6,On Time
+PKG0899,3.27,10.98,Medium,Cloudy,Bike,4.79,5.86,On Time
+PKG0900,10.38,23.62,Low,Rainy,Truck,2.9,4.61,On Time
+PKG0901,22.37,16.85,Low,Cloudy,Bike,3.34,4.78,On Time
+PKG0902,4.6,0.65,High,Clear,Van,2.94,4.9,Delayed
+PKG0903,19.78,22.95,Low,Stormy,Bike,1.08,3.48,Delayed
+PKG0904,59.14,1.54,Medium,Clear,Bike,2.19,5.54,On Time
+PKG0905,43.3,22.5,Medium,Rainy,Truck,0.95,4.7,Delayed
+PKG0906,89.48,6.47,Low,Cloudy,Bike,3.3,6.92,On Time
+PKG0907,82.11,28.76,High,Cloudy,Truck,2.51,7.19,Delayed
+PKG0908,35.5,11.35,Low,Clear,Bike,4.0,5.66,On Time
+PKG0909,27.42,10.14,Medium,Cloudy,Van,1.49,3.56,On Time
+PKG0910,39.21,4.89,Medium,Clear,Van,1.24,2.88,On Time
+PKG0911,59.85,9.52,Low,Clear,Truck,2.33,3.33,On Time
+PKG0912,28.27,26.36,Low,Clear,Van,4.67,6.18,On Time
+PKG0913,63.17,29.89,Medium,Clear,Van,3.7,6.71,On Time
+PKG0914,42.12,11.37,High,Stormy,Bike,2.39,6.97,Delayed
+PKG0915,56.1,13.73,Low,Stormy,Bike,2.83,6.6,Delayed
+PKG0916,44.74,21.8,Medium,Clear,Truck,0.88,3.71,Delayed
+PKG0917,30.86,26.64,Medium,Rainy,Bike,4.93,8.55,Delayed
+PKG0918,94.95,17.99,High,Clear,Van,3.5,8.18,Delayed
+PKG0919,76.83,12.05,Medium,Rainy,Van,1.78,5.38,Delayed
+PKG0920,15.73,12.67,Medium,Rainy,Bike,3.14,5.53,Delayed
+PKG0921,87.11,21.02,Medium,Stormy,Truck,0.99,6.0,Delayed
+PKG0922,49.77,0.59,Medium,Cloudy,Van,4.85,7.44,On Time
+PKG0923,89.67,18.78,High,Rainy,Van,1.29,6.1,Delayed
+PKG0924,80.39,10.99,Low,Clear,Truck,3.42,5.64,On Time
+PKG0925,43.67,23.93,Medium,Stormy,Bike,1.6,6.26,Delayed
+PKG0926,4.2,3.24,High,Clear,Bike,3.73,5.68,Delayed
+PKG0927,28.33,17.85,High,Cloudy,Van,4.0,7.39,Delayed
+PKG0928,55.08,14.69,High,Rainy,Bike,3.53,8.3,Delayed
+PKG0929,64.08,19.45,High,Rainy,Van,3.27,7.7,Delayed
+PKG0930,27.27,2.41,Medium,Clear,Truck,4.52,5.81,On Time
+PKG0931,15.66,17.61,Medium,Stormy,Van,0.85,3.76,Delayed
+PKG0932,83.82,17.06,Medium,Clear,Bike,1.99,5.91,On Time
+PKG0933,98.47,17.04,Low,Cloudy,Truck,1.62,4.79,On Time
+PKG0934,53.52,18.3,Medium,Clear,Van,4.95,6.88,On Time
+PKG0935,18.82,20.46,Medium,Clear,Van,2.25,3.99,On Time
+PKG0936,28.69,24.25,Low,Cloudy,Van,3.8,5.35,On Time
+PKG0937,3.8,8.46,High,Cloudy,Truck,3.58,5.3,Delayed
+PKG0938,91.6,24.84,Medium,Clear,Van,1.45,5.26,Delayed
+PKG0939,13.54,15.2,High,Clear,Van,1.58,4.65,Delayed
+PKG0940,58.5,2.77,Low,Cloudy,Truck,1.77,3.75,On Time
+PKG0941,28.86,2.23,Low,Rainy,Bike,2.35,4.15,On Time
+PKG0942,56.31,10.36,Medium,Rainy,Van,1.55,5.51,Delayed
+PKG0943,65.84,23.65,Low,Clear,Truck,0.59,2.43,On Time
+PKG0944,83.31,21.38,Medium,Clear,Van,4.46,7.62,On Time
+PKG0945,22.23,23.76,High,Clear,Van,4.85,7.57,Delayed
+PKG0946,3.08,15.76,Low,Clear,Truck,2.04,2.77,On Time
+PKG0947,15.41,13.49,Medium,Rainy,Van,2.02,4.27,Delayed
+PKG0948,90.2,4.85,Medium,Cloudy,Van,0.53,3.71,On Time
+PKG0949,87.64,10.18,Medium,Clear,Truck,3.56,6.68,On Time
+PKG0950,60.55,13.3,High,Clear,Truck,4.21,7.79,Delayed
+PKG0951,60.85,3.11,High,Clear,Van,1.16,4.18,On Time
+PKG0952,67.17,7.01,Medium,Rainy,Bike,1.22,5.58,Delayed
+PKG0953,19.19,18.15,Medium,Stormy,Van,4.06,6.89,Delayed
+PKG0954,91.61,22.2,Medium,Clear,Van,3.27,6.2,On Time
+PKG0955,43.04,29.95,High,Clear,Van,0.7,4.35,Delayed
+PKG0956,39.55,28.03,Medium,Rainy,Van,3.3,6.11,Delayed
+PKG0957,52.85,19.46,Medium,Stormy,Van,1.89,5.37,Delayed
+PKG0958,6.6,12.93,High,Cloudy,Van,2.16,4.47,Delayed
+PKG0959,18.3,19.27,Low,Clear,Bike,3.96,5.0,On Time
+PKG0960,74.33,23.68,High,Clear,Van,4.15,7.59,Delayed
+PKG0961,10.11,3.99,Low,Cloudy,Van,2.3,2.96,On Time
+PKG0962,61.11,12.59,Medium,Clear,Bike,4.76,7.83,On Time
+PKG0963,26.04,25.27,Medium,Clear,Bike,2.33,5.01,Delayed
+PKG0964,40.15,11.82,High,Cloudy,Van,3.97,7.31,Delayed
+PKG0965,30.29,17.37,High,Clear,Van,2.68,5.33,Delayed
+PKG0966,36.86,17.84,Medium,Rainy,Bike,4.54,7.61,Delayed
+PKG0967,72.47,5.94,Medium,Clear,Truck,4.58,7.46,On Time
+PKG0968,31.12,11.19,Medium,Clear,Van,0.89,2.77,On Time
+PKG0969,57.51,10.37,High,Cloudy,Truck,4.71,8.5,Delayed
+PKG0970,48.65,1.27,Medium,Clear,Van,4.21,6.13,On Time
+PKG0971,67.04,1.21,Medium,Stormy,Van,4.06,8.02,Delayed
+PKG0972,93.81,25.04,Low,Cloudy,Truck,1.4,4.52,On Time
+PKG0973,73.79,8.56,High,Clear,Van,4.12,7.74,Delayed
+PKG0974,23.06,15.78,Medium,Rainy,Van,4.33,6.07,On Time
+PKG0975,5.06,9.31,Medium,Clear,Bike,1.8,3.18,On Time
+PKG0976,27.7,28.25,Low,Stormy,Van,4.79,7.5,Delayed
+PKG0977,60.32,8.15,High,Clear,Bike,0.72,4.77,Delayed
+PKG0978,7.04,13.17,Low,Cloudy,Bike,1.17,2.47,On Time
+PKG0979,50.64,26.25,Medium,Clear,Bike,2.92,6.12,On Time
+PKG0980,60.49,25.34,High,Cloudy,Bike,3.09,7.58,Delayed
+PKG0981,34.76,5.99,Medium,Rainy,Truck,3.4,6.29,Delayed
+PKG0982,77.55,24.18,Low,Rainy,Bike,0.58,4.96,On Time
+PKG0983,12.45,14.02,Medium,Clear,Van,4.82,6.21,On Time
+PKG0984,9.36,14.75,High,Clear,Truck,0.7,2.81,Delayed
+PKG0985,73.36,4.44,Medium,Rainy,Van,1.14,4.73,Delayed
+PKG0986,50.56,2.88,High,Stormy,Bike,0.56,5.8,Delayed
+PKG0987,69.46,21.97,Low,Clear,Van,3.05,5.28,On Time
+PKG0988,44.61,15.15,Medium,Cloudy,Van,4.7,6.47,On Time
+PKG0989,26.15,13.39,Medium,Clear,Van,3.5,4.97,On Time
+PKG0990,82.27,22.02,High,Rainy,Van,4.2,9.65,Delayed
+PKG0991,80.34,23.08,Low,Clear,Truck,0.56,2.97,On Time
+PKG0992,70.08,5.19,High,Clear,Van,2.94,6.34,Delayed
+PKG0993,28.67,18.5,Medium,Rainy,Bike,2.57,5.41,Delayed
+PKG0994,59.84,4.49,Medium,Clear,Van,2.75,4.7,On Time
+PKG0995,37.38,22.67,Low,Cloudy,Bike,0.82,2.24,On Time
+PKG0996,10.98,19.88,High,Cloudy,Truck,3.58,6.12,Delayed
+PKG0997,91.9,28.72,Low,Clear,Bike,2.76,6.91,On Time
+PKG0998,15.41,2.53,Medium,Clear,Bike,3.94,5.33,On Time
+PKG0999,95.12,2.18,Low,Cloudy,Truck,2.68,5.64,On Time
+PKG1000,45.71,8.82,High,Clear,Van,1.17,4.21,Delayed
